@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaushik&#39;s Blog</title>
-    <link>/blog/</link>
+    <link>/</link>
     <description>Recent content on Kaushik&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/blog/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/about/</guid>
+      <guid>/about/</guid>
       <description>I&amp;rsquo;m Kaushik Lakshman. I&amp;rsquo;m a data scientist currently working at Betfair Australia. I hail from Bangalore, India but currently live in Melbourne, Australia. This is a collection of some stuff that I like to do in my spare time.
 You can find me on the following places:
  Github Twitter LinkedIn  </description>

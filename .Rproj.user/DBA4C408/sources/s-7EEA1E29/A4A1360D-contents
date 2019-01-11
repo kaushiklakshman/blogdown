@@ -1,5 +1,5 @@
 theme = "hugo-nuo"
-baseURL = "https://kaushiklakshman.github.io/blog/"
+baseURL = ""
 languageCode = "en-us"
 title = "Kaushik's Blog"
 enableRobotsTXT = true
