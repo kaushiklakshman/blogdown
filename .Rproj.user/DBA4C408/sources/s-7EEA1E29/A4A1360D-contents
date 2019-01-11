@@ -1,0 +1,45 @@
+theme = "hugo-nuo"
+baseURL = "https://kaushiklakshman.github.io/blog/"
+languageCode = "en-us"
+title = "Kaushik's Blog"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
+
+# Disqus Username
+disqusShortname = "disqus_shortname"
+
+# Google Analytics UA number
+googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce."
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Github"
+  weight = 20
+  identifier = "github"
+  url = "https://github.com/kaushiklakshman"
+
+# Add your own params here
+[params]
+  author = "Kaushik Lakshman"
+  bg = "images/grey-prism.svg"
+  avatar = "images/avatar.png"
+  seotitle = "Kaushik Lakshman's blog"
+  paginate = 10
+
+  # Choose your social networks
+  email = "kaushiklakshman@gmail.com"
+  github = "kaushiklakshman"
+  twitter = "_kaushik7"
+  linkedin = "kaushiklakshman"
